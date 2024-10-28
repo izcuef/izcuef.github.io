@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://izcuef.github.io/zOF/zOF.txt
